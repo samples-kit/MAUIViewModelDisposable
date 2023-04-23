@@ -5,6 +5,7 @@ Sample MAUI project showing the implementation of IDisposable in the view models
 ## Target
 
 * https://medium.com/maui-stories/how-to-implement-idisposable-in-view-models-in-maui-projects-7a78c766f90c
+* https://habr.com/ru/articles/731060/
 
 ## Requirements
 
